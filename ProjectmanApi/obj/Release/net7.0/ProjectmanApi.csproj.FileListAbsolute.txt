@@ -1,0 +1,12 @@
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\bin\Release\net7.0\ProjectmanApi.deps.json
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\bin\Release\net7.0\ProjectmanApi.dll
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\bin\Release\net7.0\ProjectmanApi.pdb
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ProjectmanApi.csproj.AssemblyReference.cache
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ProjectmanApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ProjectmanApi.AssemblyInfoInputs.cache
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ProjectmanApi.AssemblyInfo.cs
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ProjectmanApi.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ProjectmanApi.dll
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\refint\ProjectmanApi.dll
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ProjectmanApi.pdb
+C:\Users\grzeg\GP Projects\Projectman\ProjectmanApi\obj\Release\net7.0\ref\ProjectmanApi.dll

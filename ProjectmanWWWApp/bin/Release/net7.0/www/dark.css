@@ -1,0 +1,64 @@
+body
+{
+    background-color: #303030;
+    color: #FFF !important;
+    
+}
+
+#header
+{
+    background-color: #5050FF;
+    padding: 5px;
+    font-size: 40px;
+    font-weight: 500;
+
+    text-align: center;
+}
+
+a
+{
+    color: #AFAFFF;
+    text-decoration: none;
+}
+
+a#homelink
+{
+    color: #FFF;
+}
+
+#user-header
+{
+    margin-left: auto;
+}
+
+#big404
+{
+    font-size: 90px;
+    text-align: center;
+    
+    margin-top: 100px;
+}
+
+
+#big404link
+{
+    font-size: 60px;
+    text-align: center;
+    
+    margin-left: auto;
+
+    margin-top: 100px;
+}
+
+#app
+{
+    margin-top: 50px;
+    text-align: center;
+}
+
+ul
+{
+    font-size: 40px;
+    display: inline-block;
+    text-align: center;
+}

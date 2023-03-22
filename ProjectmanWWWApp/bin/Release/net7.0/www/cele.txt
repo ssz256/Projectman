@@ -1,0 +1,16 @@
+Co chce dalej zrobić
+ - Funkcje api
+ - Logowanie/Rejestrowanie
+ - Anty-XSS
+ - Cookiesy
+ - Logike
+
+Co zrobione
+ - 404
+ - Serwer HTTP
+
+Co do ulepszenia
+ - Routing
+
+Co trzeba przygotować
+ - Baze danych
